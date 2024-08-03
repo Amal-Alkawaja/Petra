@@ -1,0 +1,53 @@
+<style>
+  h2{
+  color:rgb(255,216,139);
+  }
+.petra{
+  background-color:rgb(236,208,166);
+}
+    h1{
+      text-align:center;
+      color:rgb(92,61,0);
+    }
+    .historical-place{
+      color:rgb(42,28,0);
+      font-family:Arial, Helvetica, sans-serif;
+      font-weight:bold;
+      font-style:oblique;
+      font-size:3em;
+      
+    }
+  h2{
+    background-color:rgb(100,81.6,66.7);}
+
+    body{
+      background :rgb(255,216,139);
+        }
+  img{
+   position:relative;
+    top:5px;
+    left:5px;
+  }
+  table, th, td {
+  border: 1px solid black;
+}
+  th, td {
+  border-color:rgb(64,127,127);
+}
+     a:hover{
+        background-color:rgb(202,94,104);
+     }
+     #copy-right{
+        background-color:rgb(255,255,255);
+     }
+footer{
+  background-color:brown;
+}
+ul{
+  list-style:none;
+  display:flex;
+  font-size:20px;
+  justify-content:center;
+}
+</style>
+  
